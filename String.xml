@@ -1,0 +1,131 @@
+<resources> 
+    <string name="app_name">SAMD_LAB_7</string> 
+    <string-array name="id"> 
+        <item>1</item> 
+        <item>2</item> 
+        <item>3</item> 
+        <item>4</item> 
+        <item>5</item> 
+        <item>6</item> 
+        <item>7</item> 
+        <item>8</item> 
+        <item>9</item> 
+        <item>10</item> 
+        <item>11</item> 
+        <item>12</item> 
+        <item>13</item> 
+        <item>14</item> 
+        <item>15</item> 
+        <item>16</item> 
+        <item>17</item> 
+        <item>18</item> 
+        <item>19</item> 
+        <item>20</item> 
+        <item>21</item> 
+        <item>22</item> 
+        <item>23</item> 
+        <item>24</item> 
+	<item>25</item> 
+        <item>26</item> 
+        <item>27</item> 
+        <item>28</item> 
+        <item>29</item> 
+        <item>30</item> 
+    </string-array> 
+    <string-array name="title"> 
+        <item>Someone Like You</item> 
+        <item>Space Bound</item> 
+        <item>Stranger In Moscow</item> 
+        <item>Love The Way You Lie</item> 
+        <item>Khwaja Mere Khwaja</item> 
+        <item>All My Days</item> 
+        <item>Life For Rent</item> 
+        <item>Love To See You Cry</item> 
+        <item>The Good, The Bad And The Ugly</item> 
+        <item>Show me the meaning</item> 
+        <item>Someone Like You</item> 
+        <item>Space Bound</item> 
+        <item>Stranger In Moscow</item> 
+        <item>Love The Way You Lie</item> 
+        <item>Khwaja Mere Khwaja</item> 
+        <item>All My Days</item> 
+        Zainab Nasir Software Application for Mobile Devices Lab November 28, 2020 
+        01-131172-048 Lab 07 Saturday 
+        <item>Life For Rent</item> 
+        <item>Love To See You Cry</item> 
+        <item>The Good, The Bad And The Ugly</item> 
+        <item>Show me the meaning</item> 
+        <item>Someone Like You</item> 
+        <item>Space Bound</item> 
+        <item>Stranger In Moscow</item> 
+        <item>Love The Way You Lie</item> 
+        <item>Khwaja Mere Khwaja</item> 
+        <item>All My Days</item> 
+        <item>Life For Rent</item> 
+        <item>Love To See You Cry</item> 
+        <item>The Good, The Bad And The Ugly</item> 
+        <item>Show me the meaning</item> 
+    </string-array> 
+ 
+    <string-array name="artist"> 
+        <item>Adele</item> 
+        <item>Eminem</item> 
+        <item>Michael Jackson</item> 
+        <item>Rihanna</item> 
+        <item>A R Rehman</item> 
+        <item>Alexi Murdoch</item> 
+        <item>Dido</item> 
+        <item>Enrique Iglesias</item> 
+	<item>Ennio Morricone</item> 
+        <item>Backstreet Boys</item> 
+        <item>Adele</item> 
+        <item>Eminem</item> 
+        <item>Michael Jackson</item> 
+	<item>Backstreet Boys</item> 
+        <item>Adele</item> 
+        <item>Eminem</item> 
+        <item>Michael Jackson</item> 
+        <item>Rihanna</item> 
+        <item>A R Rehman</item> 
+        <item>Alexi Murdoch</item> 
+        <item>Dido</item> 
+        <item>Enrique Iglesias</item> 
+        <item>Ennio Morricone</item> 
+        <item>Backstreet Boys</item> 
+    </string-array> 
+ 
+    <string-array name="duration"> 
+        <item>4:47</item> 
+        <item>4:38</item> 
+        <item>5:44</item> 
+        <item>4:23</item> 
+        <item>6:58</item> 
+        <item>4:47</item> 
+        <item>3:41</item> 
+        <item>4:07</item> 
+        <item>2:42</item> 
+        <item>3:56</item> 
+        <item>4:47</item> 
+        <item>4:38</item> 
+        <item>5:44</item> 
+        <item>4:23</item> 
+        <item>6:58</item> 
+        <item>4:47</item> 
+        <item>3:41</item> 
+        <item>4:07</item> 
+        <item>2:42</item> 
+        <item>3:56</item> 
+        <item>4:47</item> 
+        <item>4:38</item> 
+        <item>5:44</item> 
+        <item>4:23</item> 
+        <item>6:58</item> 
+        <item>4:47</item> 
+        <item>3:41</item> 
+        <item>4:07</item> 
+        <item>2:42</item> 
+        <item>3:56</item> 
+    </string-array> 
+</resources> 
+
+
